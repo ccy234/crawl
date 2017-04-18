@@ -8,7 +8,7 @@ def download(url, user_agent='wswp', num_retries=2):
     try:
         html = urllib2.urlopen(request).read()
     except urllib2.URLError as e:
-        print 'Download error:', e,reason
+        print 'Download error:', e.reason
         html = None
         if num_retries > 0:
             if hasattr(e, 'code') and 500 <= e.code < 600:
