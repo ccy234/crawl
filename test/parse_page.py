@@ -1,33 +1,61 @@
 from bs4 import BeautifulSoup
 from download import *
 from urllib import urlencode
+from urllib import quote
+import string
 
 
-def replace(a):
-        return a.replace(" ", "%20")
+def replaceSpace(s):
+    s = s.replace(' ','%20')
+    return s
 
-url = "http://www.allitebooks.com/web-development/"
+def get_file_addr(url):
+    html = download(url)
+    if html != None:
+        soup = BeautifulSoup(html, "lxml")
+        load = soup.find_all("span", class_="download-links")
+        for link in load:
+            pdf = link.a["href"]
+            if "http" in pdf:
+                print pdf
+                return pdf
 
-html = download(url)
+def get_one_page(url):
+    html = download(url)
+    if html != None: 
+        soup = BeautifulSoup(html, "lxml")
+        entry_title = soup.find_all("h2", class_="entry-title")
+        for entry in entry_title:
+            a = entry.find("a")
+            #print a["href"]
+            #return a["href"]
+            get_file_addr(a["href"])
 
-soup = BeautifulSoup(html)
-print soup.title
-#article_all = soup.find_all("article")
-#for article in article_all:
-    #print article
-    #entry_title = BeautifulSoup(article)
-    #print entry_title.find_all("h2", class_="entry_title")
-entry_title = soup.find_all("h2", class_="entry-title")
-for entry in entry_title:
-    print entry
-print len(entry_title)
-#print soup.article
-#print soup.head
-#span = soup.find(attrs={'class':'download-links'})
-#
-##a = span.find(attrs={hr})
-#url=span.a['href']
-##print url
-#url = replace(url)
-##print url
-#print download(url)
+def get_page_nums(url):
+    html = download(url)
+    if html != None: 
+        soup = BeautifulSoup(html, "lxml")
+        pages = soup.find("span", class_="pages")
+        s = pages.string
+        num = s.split() 
+        #print num[2] 
+        return num[2] 
+        
+     
+
+
+
+	
+url1 = "http://www.allitebooks.com/web-development/"
+get_page_nums(url1)
+
+#url2 = "http://www.allitebooks.com/pro-html5-games-2nd-edition/"
+#for i in range(3):
+#    url = "http://www.allitebooks.com/web-development/page/%d/" % (i+1)
+#    print url
+#    get_one_page(url)
+
+#print download(get_file_addr(url2))
+#get_file_addr(url2)
+
+
