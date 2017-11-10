@@ -35,8 +35,8 @@ def get_page_nums(url):
     html = download(url)
     if html != None: 
         soup = BeautifulSoup(html, "lxml")
-        pages = soup.find("span", class_="pages")
-        s = pages.string
+        page = soup.find("span", class_="pages")
+        s = str(page.string)
         num = s.split() 
         #print num[2] 
         return num[2] 
