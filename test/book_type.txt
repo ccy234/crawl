@@ -1,0 +1,1 @@
+{'software': '36', 'computers-technology': '23', 'certification': '16', 'networking-cloud-computing': '64', 'programming': '149', 'operating-systems': '71', 'graphics-design': '30', 'hardware': '27', 'game-programming': '32', 'web-development': '176', 'enterprise': '18', 'security': '16', 'datebases': '83', 'marketing-seo': '7', 'administration': '24'}
