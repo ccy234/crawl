@@ -4,6 +4,24 @@ from urllib import urlencode
 from urllib import quote
 import string
 
+types=[
+ "web-development"
+,"programming"
+,"datebases"
+,"graphics-design"
+,"operating-systems"
+,"networking-cloud-computing"
+,"administration"
+,"certification"
+,"computers-technology"
+,"enterprise"
+,"game-programming"
+,"hardware"
+,"marketing-seo"
+,"security"
+,"software"
+]
+sedurl="http://www.allitebooks.com/"
 
 def replaceSpace(s):
     s = s.replace(' ','%20')
@@ -29,7 +47,7 @@ def get_one_page(url):
             a = entry.find("a")
             #print a["href"]
             #return a["href"]
-            get_file_addr(a["href"])
+            return get_file_addr(a["href"])
 
 def get_page_nums(url):
     html = download(url)
@@ -38,16 +56,30 @@ def get_page_nums(url):
         page = soup.find("span", class_="pages")
         s = str(page.string)
         num = s.split() 
-        #print num[2] 
+        print num[2] 
         return num[2] 
         
      
-
-
+def open_file(filename):
+    fo = open(filename, "wb")
+    return fo
 
 	
 url1 = "http://www.allitebooks.com/web-development/"
-get_page_nums(url1)
+
+book_types={}
+
+for t in types:
+    url0="%s%s/" % (sedurl,t)
+    book_types[t]=get_page_nums(url0)
+print book_types
+fo = open("book_type.txt", "wb")
+content = "%s" % book_types
+fo.write(content);
+fo.close()
+
+print len(book_types)
+#get_page_nums(url1)
 
 #url2 = "http://www.allitebooks.com/pro-html5-games-2nd-edition/"
 #for i in range(3):
