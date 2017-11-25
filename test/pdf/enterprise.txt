@@ -1,0 +1,192 @@
+/enterprise/page/1/
+http://file.allitebooks.com/20160123/SAP Project Management Pitfalls.pdf
+http://file.allitebooks.com/20150731/Instant Flask Web Development.pdf
+http://file.allitebooks.com/20150710/SAP ERP Financial Accounting and Controlling- Configuration and Use Management.pdf
+http://file.allitebooks.com/20150706/Mastering HR Management with SAP.pdf
+http://file.allitebooks.com/20150615/Lync Server Cookbook.pdf
+http://file.allitebooks.com/20150615/Learning Adobe Connect 9.pdf
+http://file.allitebooks.com/20150615/Microsoft Lync 2013 Unified Communications.pdf
+http://file.allitebooks.com/20150615/IBM Lotus Notes and Domino 8.5.3 Upgrader-s Guide.pdf
+http://file.allitebooks.com/20150615/IBM Lotus Domino.pdf
+http://file.allitebooks.com/20150615/Professional Unified Communications.pdf
+/enterprise/page/2/
+http://file.allitebooks.com/20150615/IBM Lotus Notes and Domino 8.5.1.pdf
+http://file.allitebooks.com/20150615/SAP BusinessObjects Reporting Cookbook.pdf
+http://file.allitebooks.com/20150615/Appcelerator Titanium Business Application Development Cookbook.pdf
+http://file.allitebooks.com/20150615/Architecting Mobile Solutions for the Enterprise.pdf
+http://file.allitebooks.com/20150615/Expert Oracle Application Express.pdf
+http://file.allitebooks.com/20150615/Oracle Application Express 4 Recipes.pdf
+http://file.allitebooks.com/20150615/Oracle Application Express 4.0 with Ext JS.pdf
+http://file.allitebooks.com/20150615/Pro Oracle Application Express 4, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Learning Apache Kafka, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Learning NServiceBus Sagas.pdf
+/enterprise/page/3/
+http://file.allitebooks.com/20150612/Learning NServiceBus, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Getting Started with BizTalk Services.pdf
+http://file.allitebooks.com/20150612/HL7 for BizTalk.pdf
+http://file.allitebooks.com/20150612/RabbitMQ Essentials.pdf
+http://file.allitebooks.com/20150612/Apache Kafka.pdf
+http://file.allitebooks.com/20150612/BizTalk 2013 Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/ZeroMQ.pdf
+http://file.allitebooks.com/20150612/RabbitMQ in Action.pdf
+http://file.allitebooks.com/20150612/BizTalk 2010 Recipes.pdf
+http://file.allitebooks.com/20150612/Force.com Development Blueprints.pdf
+/enterprise/page/4/
+http://file.allitebooks.com/20150612/Getting Started with SOQL.pdf
+http://file.allitebooks.com/20150612/Learning MS Dynamics AX 2012 Programming.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 R2 Services.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM Customization Essentials.pdf
+http://file.allitebooks.com/20150612/Practical Salesforce.com Development Without Code.pdf
+http://file.allitebooks.com/20150612/SAP ABAP.pdf
+http://file.allitebooks.com/20150612/Transportation Management with SAP TM 9.pdf
+http://file.allitebooks.com/20150612/Building Dashboards with Microsoft Dynamics GP 2013 and Excel 2013.pdf
+http://file.allitebooks.com/20150612/CiviCRM Cookbook.pdf
+http://file.allitebooks.com/20150612/Development with the Force.com Platform, 3rd Edition.pdf
+/enterprise/page/5/
+http://file.allitebooks.com/20150612/Extending Microsoft Dynamics AX 2012 Cookbook.pdf
+http://file.allitebooks.com/20150612/Force.com Tips and Tricks.pdf
+http://file.allitebooks.com/20150612/Getting Started with Dynamics NAV 2013 Application Development.pdf
+http://file.allitebooks.com/20150612/Implementing Microsoft Dynamics AX 2012 with Sure Step 2012.pdf
+http://file.allitebooks.com/20150612/Implementing Microsoft Dynamics NAV 2013.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Applications (MB2-868) Certification Guide.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Reporting.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Scripting Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics GP 2013 Cookbook.pdf
+/enterprise/page/6/
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV Financial Management.pdf
+http://file.allitebooks.com/20150612/Salesforce CRM Admin Cookbook.pdf
+http://file.allitebooks.com/20150612/Visualforce Developer-s Guide.pdf
+http://file.allitebooks.com/20150612/Developing Microsoft Dynamics GP Business Applications.pdf
+http://file.allitebooks.com/20150612/Inside Microsoft Dynamics AX 2012.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 Development Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 Services.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011.pdf
+http://file.allitebooks.com/20150612/Sams Teach Yourself Microsoft Dynamics Crm 2011 in 24 Hours.pdf
+http://file.allitebooks.com/20150612/SAP ABAP Advanced Cookbook.pdf
+/enterprise/page/7/
+http://file.allitebooks.com/20150612/Building on SugarCRM.pdf
+http://file.allitebooks.com/20150612/CRM Fundamentals.pdf
+http://file.allitebooks.com/20150612/Development with the Force.com Platform, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Mastering SQL Queries for SAP Business One.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2009 Administration.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Administration Bible.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Step by Step.pdf
+http://file.allitebooks.com/20150612/Oracle Siebel CRM 8 Developer-s Handbook.pdf
+http://file.allitebooks.com/20150612/Sams Teach Yourself SAP in 24 Hours, 4th Edition.pdf
+http://file.allitebooks.com/20150612/SAP BusinessObjects Dashboards 4.0 Cookbook.pdf
+/enterprise/page/8/
+http://file.allitebooks.com/20150612/Using CiviCRM.pdf
+http://file.allitebooks.com/20150612/Apache OfBiz Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV 2009 Programming Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV Administration.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 4 Integration Unleashed.pdf
+http://file.allitebooks.com/20150612/Programming Microsoft Dynamics NAV 2009.pdf
+http://file.allitebooks.com/20150612/SAP Implementation Unleashed.pdf
+http://file.allitebooks.com/20150612/The Definitive Guide to SugarCRM.pdf
+http://file.allitebooks.com/20150612/SAP GRC For Dummies.pdf
+http://file.allitebooks.com/20150612/SugarCRM Developer-s Manual Customize and extend SugarCRM.pdf
+/enterprise/page/9/
+http://file.allitebooks.com/20150612/Implementing SugarCRM.pdf
+http://file.allitebooks.com/20150612/Custom SharePoint Solutions with HTML and JavaScript.pdf
+http://file.allitebooks.com/20150612/Beginning PowerShell for SharePoint 2013.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Administration Inside Out.pdf
+http://file.allitebooks.com/20150612/SharePoint 2013 WCM Advanced Cookbook.pdf
+http://file.allitebooks.com/20150612/Beginning SharePoint 2013.pdf
+http://file.allitebooks.com/20150612/Beginning SharePoint 2013 Development.pdf
+http://file.allitebooks.com/20150612/Business Intelligence in Microsoft SharePoint 2013.pdf
+http://file.allitebooks.com/20150612/Developing Business Intelligence Apps for SharePoint.pdf
+http://file.allitebooks.com/20150612/Exploring Microsoft SharePoint 2013.pdf
+/enterprise/page/10/
+http://file.allitebooks.com/20150612/Inside Microsoft SharePoint 2013.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 App Development.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Developer Reference.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Disaster Recovery Guide.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Inside Out.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Designing and Architecting Solutions.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2013 Planning for Adoption and Governance.pdf
+http://file.allitebooks.com/20150612/Practical SharePoint 2013 Enterprise Content Management.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2013 Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2013 App Development.pdf
+/enterprise/page/11/
+http://file.allitebooks.com/20150612/Pro SharePoint 2013 Branding and Responsive Web Development.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2013 Business Intelligence Solutions.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint Disaster Recovery and High Availability, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Professional SharePoint 2013 Administration.pdf
+http://file.allitebooks.com/20150612/Professional SharePoint 2013 Development.pdf
+http://file.allitebooks.com/20150612/SharePoint 2013 Branding and User Interface Design.pdf
+http://file.allitebooks.com/20150612/SharePoint 2013 User-s Guide, 4th Edition.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 Business Application Blueprints.pdf
+http://file.allitebooks.com/20150612/Practical SharePoint 2010 Branding and Customization.pdf
+http://file.allitebooks.com/20150612/Practical SharePoint 2010 Information Architecture.pdf
+/enterprise/page/12/
+http://file.allitebooks.com/20150612/Pro SharePoint 2010 Development for Office 365.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2010 Governance.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint with jQuery.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 at Work.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 Field Guide.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 for Project Management, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/SharePoint Apps with LightSwitch.pdf
+http://file.allitebooks.com/20150612/SharePoint Server 2010 Administration 24 Hour Trainer.pdf
+http://file.allitebooks.com/20150612/Working with Microsoft FAST Search Server 2010 for SharePoint.pdf
+http://file.allitebooks.com/20150612/Developing Microsoft SharePoint Applications Using Windows Azure.pdf
+/enterprise/page/13/
+http://file.allitebooks.com/20150612/Expert SharePoint 2010 Practices.pdf
+http://file.allitebooks.com/20150612/Inside Microsoft SharePoint 2010.pdf
+http://file.allitebooks.com/20150612/Mastering Microsoft SharePoint Foundation 2010.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 Administration Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 and Windows PowerShell 2.0.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 Business Intelligence Unleashed.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 Enterprise Applications on Windows Phone 7.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint Foundation 2010 Inside Out.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint Foundation 2010 Step by Step.pdf
+http://file.allitebooks.com/20150612/PowerPivot for Business Intelligence Using Excel and SharePoint.pdf
+/enterprise/page/14/
+http://file.allitebooks.com/20150612/Pro SharePoint 2010 Administration.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2010 Disaster Recovery and High Availability.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint 2010 Search.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint Designer 2010.pdf
+http://file.allitebooks.com/20150612/Professional Business Connectivity Services in SharePoint 2010.pdf
+http://file.allitebooks.com/20150612/Professional SharePoint 2010 Cloud-Based Solutions.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 Business Intelligence 24-Hour Trainer.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 Development with Silverlight.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 Six-in-One.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 Web Parts in Action.pdf
+/enterprise/page/15/
+http://file.allitebooks.com/20150612/SharePoint Server 2010 Enterprise Content Management.pdf
+http://file.allitebooks.com/20150612/Using Microsoft InfoPath 2010 with Microsoft SharePoint 2010 Step by Step.pdf
+http://file.allitebooks.com/20150612/Beginning SharePoint 2010.pdf
+http://file.allitebooks.com/20150612/Beginning SharePoint Designer 2010.pdf
+http://file.allitebooks.com/20150612/Managing and Implementing Microsoft SharePoint 2010 Projects.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2010 PerformancePoint Services Unleashed.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint Designer 2010 Step by Step.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint Server 2010 Bible.pdf
+http://file.allitebooks.com/20150612/Pro SharePoint Solution Development.pdf
+http://file.allitebooks.com/20150612/Professional SharePoint 2010 Branding and User Interface Design.pdf
+/enterprise/page/16/
+http://file.allitebooks.com/20150612/Professional SharePoint 2010 Development.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 All-in-One For Dummies.pdf
+http://file.allitebooks.com/20150612/SharePoint 2010 How-To.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint 2007 for Office 2007 Users.pdf
+http://file.allitebooks.com/20150612/Professional Microsoft Office SharePoint Designer 2007.pdf
+http://file.allitebooks.com/20150612/SharePoint Designer Tutorial.pdf
+http://file.allitebooks.com/20150612/Microsoft SharePoint.pdf
+http://file.allitebooks.com/20150612/Beginning SharePoint with Excel.pdf
+http://file.allitebooks.com/20150612/Oracle BPM Suite 11g Developer-s cookbook.pdf
+http://file.allitebooks.com/20150612/Oracle SOA Suite 11g Administrator-s Handbook.pdf
+/enterprise/page/17/
+http://file.allitebooks.com/20150612/SOA Governance in Action.pdf
+http://file.allitebooks.com/20150612/SOA Made Simple.pdf
+http://file.allitebooks.com/20150612/SOA Patterns.pdf
+http://file.allitebooks.com/20150612/WCF 4.5 Multi-Layer Services Development with Entity Framework, 3rd Edition.pdf
+http://file.allitebooks.com/20150612/Do more with SOA Integration Best of Packt.pdf
+http://file.allitebooks.com/20150612/Pro WCF 4, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Microsoft Windows Communication Foundation 4.0 Cookbook for Developing SOA Applications.pdf
+http://file.allitebooks.com/20150612/Programming WCF Services, 3rd Edition.pdf
+http://file.allitebooks.com/20150612/SOA Design Patterns.pdf
+http://file.allitebooks.com/20150612/SOA Governance.pdf
+/enterprise/page/18/
+http://file.allitebooks.com/20150612/SOA and WS-BPEL.pdf
+http://file.allitebooks.com/20150612/SOA Approach to Integration.pdf
+http://file.allitebooks.com/20150612/SOA in Practice.pdf
+http://file.allitebooks.com/20150612/SOA Using Java  Web Services.pdf
